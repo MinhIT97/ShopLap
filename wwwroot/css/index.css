@@ -1,0 +1,16 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+ 
+}
+.bg-clor {
+    background-image: url('../images/2019-10-10 (2).png');
+}
+.bg-sp{
+   background-color:white;
+   margin:5px 5px;
+}
+img{
+    max-height:100%;
+    max-width:100%;
+}
